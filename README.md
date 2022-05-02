@@ -34,5 +34,10 @@ https://www.kaggle.com/code/aeryan/spotify-music-analysis
 - There are 17 features for this data set.
 - We can answer the questions regrding danceability and duration.
 
-https://www.kaggle.com/code/arpita28/analysis-of-spotify-trends
-## Spotify Trend Analysis
+https://www.kaggle.com/datasets/nadintamer/top-spotify-tracks-of-2018
+## Spotify 2018 Tracks
+- We downladed these data files from Kaggle through a WEB URL.
+- The data collected or generated was collected by spotify and made into a Kraggle file by AERYAN. They collected data about what typpe of songs entered the spotify charts. It gives insight into the duration of the song, the danceablility, key, energy, etc. 
+- There are 2016 observations for this data set.  
+- There are 17 features for this data set.
+- We can answer the questions regrding danceability and duration.
