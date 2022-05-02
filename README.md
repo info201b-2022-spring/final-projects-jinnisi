@@ -15,5 +15,17 @@ https://www.kaggle.com/code/tanersekmen/spotify-50-song-analysis - Another .csv 
 1. What was the top genre that was included within the charts? 
 2. How many Non Americans were included in the charts?
 3. Which artist has had the most top 10 hits?
+4. Are songs that are more "danceable" more likely to chart?
+5. Will songs that are longer in duration more likely to top the chart?
 
 https://www.kaggle.com/datasets/leonardopena/top50spotify2019
+
+## We downladed these data files from Kaggle through a WEB URL.
+
+## How was the data collected or generated? Make sure to explain *who* collected the data and who or what the data is about?
+
+## There are 14 observations for this data set.  
+
+## How many features are in the data?
+
+## What questions can be answered using the data in this dataset?
