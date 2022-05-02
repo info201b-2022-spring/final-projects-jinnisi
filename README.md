@@ -21,7 +21,7 @@ https://www.kaggle.com/code/tanersekmen/spotify-50-song-analysis - Another .csv 
 https://www.kaggle.com/datasets/leonardopena/top50spotify2019
 ## Top 50 Dataset information
 - We downladed these data files from Kaggle through a WEB URL.
-- The data collected or generated? Make sure to explain *who* collected the data is about the spotify charts. It gives insight into the track name.
-- There are 14 observations for this data set.  
-- How many features are in the data?
-- What questions can be answered using the data in this dataset?
+- The data collected or generated was collected by spotify and made into a Kraggle file by LEONARDO HENRIQUE. They collected data  about the spotify charts. It gives insight into the track name, artist name, genre, beats per minute, etc. 
+- There are 50 observations for this data set.  
+- There are 14 features for this data set.
+- We can answer the questions regrding genre and track artist + name.
