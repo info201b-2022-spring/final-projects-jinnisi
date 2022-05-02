@@ -1,5 +1,5 @@
 # final-projects-jinnisi
-# Spotify Top 100 Charts of 2010-2019
+# Spotify Top 100 Charts of 2015-2019
 
 ## Why are you interested in this field/domain?
 We were interested in this field because we all enjoy music and it is a part of our daily lives. We believe this will have a large dataset to have our questions. 
@@ -20,11 +20,11 @@ https://www.kaggle.com/code/tanersekmen/spotify-50-song-analysis - Another .csv 
 
 https://www.kaggle.com/datasets/leonardopena/top50spotify2019
 
-## Where did you download the data?
+## We downladed these data files from Kaggle through a WEB URL.
 
 ## How was the data collected or generated? Make sure to explain *who* collected the data and who or what the data is about?
 
-## How many observations are in your data?
+## There are 14 observations for this data set.  
 
 ## How many features are in the data?
 
