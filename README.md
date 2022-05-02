@@ -15,6 +15,8 @@ https://www.kaggle.com/code/tanersekmen/spotify-50-song-analysis - Another .csv 
 1. What was the top genre that was included within the charts? 
 2. How many Non Americans were included in the charts?
 3. Which artist has had the most top 10 hits?
+4. Are songs that are more "danceable" more likely to chart?
+5. Will songs that are longer in duration more likely to top the chart?
 
 https://www.kaggle.com/datasets/leonardopena/top50spotify2019
 
