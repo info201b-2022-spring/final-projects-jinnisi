@@ -1,5 +1,5 @@
 # final-projects-jinnisi
-# Spotify Top 100 Charts of 2015-2019
+# Spotify Top 100 Charts of 2010-2019
 
 ## Why are you interested in this field/domain?
 We were interested in this field because we all enjoy music and it is a part of our daily lives. We believe this will have a large dataset to have our questions. 
