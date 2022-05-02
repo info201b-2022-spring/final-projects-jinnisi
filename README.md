@@ -9,7 +9,7 @@ https://www.kaggle.com/code/aeryan/spotify-music-analysis - The data contains nu
 
 https://www.kaggle.com/code/arpita28/analysis-of-spotify-trends - Analysis of Spotify trends based off of the top 50 songs of 2019
 
-https://www.kaggle.com/code/tanersekmen/spotify-50-song-analysis - 
+https://www.kaggle.com/code/tanersekmen/spotify-50-song-analysis - Another .csv file that analyzes Spotify trends based off of the top 50 songs of 2019
 
 ## What data-driven questions do you hope to answer about this domain (share at least 3)?
 1. What was the top genre that was included within the charts? 
