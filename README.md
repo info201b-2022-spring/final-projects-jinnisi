@@ -49,4 +49,4 @@ https://www.kaggle.com/datasets/leonardopena/top-50-spotify-songs-by-each-countr
 - The data was collected by LEONARDO HENRIQUE. They collected data from 2019 around Christmas time from the top charts around the world.
 - There are 1000 observations in this data set.
 - There are 17 features in this data set.
-- We can use this dataset to diversify the data we look at to compare songs around not just un the states but also around the world.  
+- We can use this dataset to diversify the data we look at to compare songs around not just in the states but also around the world.  
