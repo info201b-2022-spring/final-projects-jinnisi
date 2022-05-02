@@ -19,13 +19,9 @@ https://www.kaggle.com/code/tanersekmen/spotify-50-song-analysis - Another .csv 
 5. Will songs that are longer in duration more likely to top the chart?
 
 https://www.kaggle.com/datasets/leonardopena/top50spotify2019
-
-## We downladed these data files from Kaggle through a WEB URL.
-
-## How was the data collected or generated? Make sure to explain *who* collected the data and who or what the data is about?
-
-## There are 14 observations for this data set.  
-
-## How many features are in the data?
-
-## What questions can be answered using the data in this dataset?
+## Top 50 Dataset information
+- We downladed these data files from Kaggle through a WEB URL.
+- The data collected or generated? Make sure to explain *who* collected the data is about the spotify charts. It gives insight into the track name.
+- There are 14 observations for this data set.  
+- How many features are in the data?
+- What questions can be answered using the data in this dataset?
