@@ -17,3 +17,13 @@ https://www.kaggle.com/code/tanersekmen/spotify-50-song-analysis - Another .csv 
 3. Which artist has had the most top 10 hits?
 
 https://www.kaggle.com/datasets/leonardopena/top50spotify2019
+
+## Where did you download the data?
+
+## How was the data collected or generated? Make sure to explain *who* collected the data and who or what the data is about?
+
+## How many observations are in your data?
+
+## How many features are in the data?
+
+## What questions can be answered using the data in this dataset?
