@@ -42,3 +42,11 @@ NADIN TAMER. They collected data about the songs that charted in 2018. It gives 
 - There are 100 observations for this data set.  
 - There are 16 features for this data set.
 - We can answer the questions regarding danceability and duration also the name and artist.
+
+https://www.kaggle.com/datasets/leonardopena/top-50-spotify-songs-by-each-country
+## Top 50 Spotify Songs by Each Country in 2019
+-We downloaded this .csv dataset through Kaggle
+- The data was collected by LEONARDO HENRIQUE. They collected data from 2019 around Christmas time from the top charts around the world.
+- There are 1000 observations in this data set.
+- There are 17 features in this data set.
+- We can use this dataset to diversify the data we look at to compare songs around not just un the states but also around the world.  
