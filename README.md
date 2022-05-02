@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/leonardopena/top50spotify2019
 https://www.kaggle.com/code/aeryan/spotify-music-analysis
 ## Spotify Music Analysis
 - We downladed these data files from Kaggle through a WEB URL.
-- The data collected or generated was collected by spotify and made into a Kraggle file by AERYAN. They collected data about what typpe of songs entered the spotify charts. It gives insight into the duration of the song, the danceablility, key, energy, etc. 
+- The data collected or generated was collected by spotify and made into a Kraggle file by AERYAN. They collected data about what type of songs entered the spotify charts. It gives insight into the duration of the song, the danceablility, key, energy, etc. 
 - There are 2016 observations for this data set.  
 - There are 17 features for this data set.
 - We can answer the questions regrding danceability and duration.
@@ -37,7 +37,8 @@ https://www.kaggle.com/code/aeryan/spotify-music-analysis
 https://www.kaggle.com/datasets/nadintamer/top-spotify-tracks-of-2018
 ## Spotify 2018 Tracks
 - We downladed these data files from Kaggle through a WEB URL.
-- The data collected or generated was collected by spotify and made into a Kraggle file by AERYAN. They collected data about what typpe of songs entered the spotify charts. It gives insight into the duration of the song, the danceablility, key, energy, etc. 
-- There are 2016 observations for this data set.  
-- There are 17 features for this data set.
-- We can answer the questions regrding danceability and duration.
+- The data collected or generated was collected by spotify and made into a Kraggle file by 
+NADIN TAMER. They collected data about the songs that charted in 2018. It gives insight into the duration of the song, the danceablility, key, energy, as well as the artist and the name of the song.
+- There are 100 observations for this data set.  
+- There are 16 features for this data set.
+- We can answer the questions regrding danceability and duration also the name and artist.
