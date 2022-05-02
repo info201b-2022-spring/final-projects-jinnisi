@@ -33,3 +33,6 @@ https://www.kaggle.com/code/aeryan/spotify-music-analysis
 - There are 2016 observations for this data set.  
 - There are 17 features for this data set.
 - We can answer the questions regrding danceability and duration.
+
+https://www.kaggle.com/code/arpita28/analysis-of-spotify-trends
+## Spotify Trend Analysis
