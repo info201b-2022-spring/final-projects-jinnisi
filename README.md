@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/leonardopena/top50spotify2019
 - The data collected or generated was collected by spotify and made into a Kraggle file by LEONARDO HENRIQUE. They collected data about the spotify charts. It gives insight into the track name, artist name, genre, beats per minute, etc. 
 - There are 50 observations for this data set.  
 - There are 14 features for this data set.
-- We can answer the questions regrding genre and track artist + name.
+- We can answer the questions regarding genre and track artist + name.
 
 https://www.kaggle.com/code/aeryan/spotify-music-analysis
 ## Spotify Music Analysis
@@ -32,7 +32,7 @@ https://www.kaggle.com/code/aeryan/spotify-music-analysis
 - The data collected or generated was collected by spotify and made into a Kraggle file by AERYAN. They collected data about what type of songs entered the spotify charts. It gives insight into the duration of the song, the danceablility, key, energy, etc. 
 - There are 2016 observations for this data set.  
 - There are 17 features for this data set.
-- We can answer the questions regrding danceability and duration.
+- We can answer the questions regarding danceability and duration.
 
 https://www.kaggle.com/datasets/nadintamer/top-spotify-tracks-of-2018
 ## Spotify 2018 Tracks
@@ -41,4 +41,4 @@ https://www.kaggle.com/datasets/nadintamer/top-spotify-tracks-of-2018
 NADIN TAMER. They collected data about the songs that charted in 2018. It gives insight into the duration of the song, the danceablility, key, energy, as well as the artist and the name of the song.
 - There are 100 observations for this data set.  
 - There are 16 features for this data set.
-- We can answer the questions regrding danceability and duration also the name and artist.
+- We can answer the questions regarding danceability and duration also the name and artist.
