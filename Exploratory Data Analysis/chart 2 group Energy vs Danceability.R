@@ -6,7 +6,9 @@ library(dplyr)
 library(hrbrthemes)
 
 #Load dataset
-decade_data <- read.csv("/Users/alextran/Documents/info 201/Group project/final-projects-jinnisi/data/Spotify 2010 - 2019 Top 100.csv")
+#url : https://www.kaggle.com/datasets/amey22/spotify-top-100-songs-of-2010-2019
+decade_data <- read.csv("https://raw.githubusercontent.com/info201b-2022-spring/final-projects-jinnisi/main/data/Spotify%202010%20-%202019%20Top%20100.csv?token=GHSAT0AAAAAABTKJOZZI57XVD5L35USA53YYUK7I5Q")
+
 
 #Extract Dancebility and Energy to be used in final graph
 x_value <- decade_data$nrgy
