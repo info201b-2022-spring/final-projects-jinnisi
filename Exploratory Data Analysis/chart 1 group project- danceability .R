@@ -8,7 +8,7 @@ library(ggplot2)
 
 #load the data
 #url : https://www.kaggle.com/datasets/amey22/spotify-top-100-songs-of-2010-2019
-decade_data <- read.csv("https://raw.githubusercontent.com/info201b-2022-spring/final-projects-jinnisi/main/data/Spotify%202010%20-%202019%20Top%20100.csv?token=GHSAT0AAAAAABTKJOZZS2M7QFHZECURSMPEYULFLKA")
+decade_data <- read.csv("https://raw.githubusercontent.com/info201b-2022-spring/final-projects-jinnisi/main/data/Spotify%202010%20-%202019%20Top%20100.csv?token=GHSAT0AAAAAABTKJOZZNXW6BNKTALTWOOKOYULF2XQ")
 
 
 #create new dataframe 
