@@ -1,0 +1,14 @@
+# An introduction of the problem domain and dataset (feel free to borrow language you used in your brainstorm assignment).
+The datasets we chose to use were "The top 50 songs in spotify", "Spotify Top 100 Charts", "Spotify Music Analysis", "Spotify 2018 Tracks", 
+and "Top 50 spotify songs in each country". We chose to focus on these datasets because they contain a lot of features that we could use to
+answer the questions we brainstormed. Each datatset also focused on different considerations such as year, country, or popularity. We chose 
+to base our project based on this field because we all enjoy music and it is a part of our daily lives. We chose to create charts on Artist 
+Type Popularity, Danceability, and Energy. One of the problems we were considering was 
+  
+# A paragraph of summary information, citing at least 5 values calculated from the data.
+
+# A table of  aggregated data (e.g., that has been "grouped" by one of your features).
+ 
+# Three charts that display information from the data (what you visualize is up to you). 
+The three charts are located in another file called "Exploratory Data Analysis" where we have charts for "Energy v Danceability", "Danceability",
+and "Artist Type Popularity".
